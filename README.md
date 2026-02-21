@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋
+I'm Andrïs, a cs major @ UvA.
 
-<!--
-**AndrisIacob/AndrisIacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm still learning, but currently spending most of my time on university assignments — right now working with Rust.  
+Also building a portfolio website and a personal data analytics board for (Valorant) esports.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tools / tech ⚙️
+- c, python, php, rust  
+- java (spring boot)  
+- html, css, js / typescript, react  
+- mysql, mariadb, datagrip  
+- git, docker  
+- power bi  
+- macos / windows / linux  
+
+## creative tools 🎨
+- after effects, photoshop, illustrator
+- blender (bits of c4d/maya)
+- figma
+- astah UML
+
+---
+
+## about me
+I own two cats. 🐈‍⬛🐈 
+
+Outside of code I'm into competitive games (hence the analytics project), anime and drawing.
+And currently I'm learning blender and improving my adobe workflow.

@@ -10,7 +10,7 @@ Also building a portfolio website and a personal data analytics board for (Valor
 - c, python, php, rust  
 - java (spring boot)  
 - html, css, js / typescript, react  
-- mysql, mariadb, datagrip  
+- mysql, mariadb
 - git, docker  
 - power bi  
 - macos / windows / linux  

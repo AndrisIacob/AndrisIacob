@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/user-attachments/assets/00107ba3-d94f-4e58-9cee-e3319774753a" width="28"/>
 I'm Andrïs, a cs major @ UvA.
 
-I'm still learning, but currently spending most of my time on university assignments — right now working with Rust.  
+I'm still learning, but currently spending most of my time on university assignments. 
 Also building a portfolio website and a personal data analytics board for (Valorant) esports.
 
 ---
